@@ -8,14 +8,14 @@ This app allows users to add, view, and delete tasks directly from the terminal.
 
 ## Features
 
-- ✅ Add a new task
-- 📋 View all tasks
-- ❌ Delete a task
-- 💾 Persistent storage using `tasks.json`
-- 💡 Clean code practices (modular functions, error handling)
+-  Add a new task
+-  View all tasks
+-  Delete a task
+-  Persistent storage using `tasks.json`
+-  Clean code practices (modular functions, error handling)
 
 
-## 🧑‍💻 How to Run
+## How to Run
 
 ### Requirements:
 - Python 3.x installed
