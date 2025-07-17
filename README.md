@@ -4,8 +4,6 @@ A simple command-line Todo application built with Python.
 
 This app allows users to add, view, and delete tasks directly from the terminal. It stores tasks in a JSON file so that data is saved between sessions.
 
----
-
 ## Features
 
 -  Add a new task
