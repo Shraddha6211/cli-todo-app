@@ -23,11 +23,13 @@ This app allows users to add, view, and delete tasks directly from the terminal.
 ### Steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/cli-todo-app.git
+   git clone https://github.com/Shraddha6211/cli-todo-app.git
    cd cli-todo-app
 2. Run the app:
-    python todo.py
-3. Use the menu to:
+   ```bash
+      python todo.py
+4. Use the menu to:
+   ```bash
       Add a task
       View tasks
       Delete a task
