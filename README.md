@@ -33,7 +33,7 @@ This app allows users to add, view, and delete tasks directly from the terminal.
       Delete a task
       Quit
 
-Clean Code Principles applied
+## Clean Code Principles applied
 - Error handling for valid inputs.
 - Tried to maintain a short code as much as possible.
 - Consistent formatting and comments.
